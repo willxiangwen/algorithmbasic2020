@@ -86,7 +86,7 @@ public class Code01_SelectionSort {
 		System.out.println();
 	}
 
-	// for test
+	// test
 	public static void main(String[] args) {
 		int testTime = 500000;
 		int maxSize = 100;
